@@ -1,6 +1,6 @@
 
 
-/1. Project title : Applications of Immersive Technology
+##1. Project title : Applications of Immersive Technology
 
 2. Project description : 
 This report studies the applications of immersive technologies in industrial training, aeronautical maintenance, and manufacturing. It explores how Virtual Reality (VR) supports industrial robot operator training and how Augmented Reality (AR) assists maintenance workers with tools and visual guidance. The research also examines 3D visualization techniques for improving maintenance training. Overall, the report highlights how immersive technologies can improve learning, efficiency, and practical task performance.
